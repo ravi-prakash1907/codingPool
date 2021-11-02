@@ -26,7 +26,6 @@ def ispallindrome(string):
         status=0
     return status
 
-
 string = input("Enter the string: ")
 status= isPallindrome(string)
 if(status):
