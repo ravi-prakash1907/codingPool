@@ -15,7 +15,7 @@ O/P:
 
 '''
 
-##############  ZigZag converter program  ##############
+##############  ZigZag Converter  ##############
 
 def convert(s,numRows):
     zigzag = [[] for i in range(numRows)]
