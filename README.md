@@ -14,7 +14,9 @@ Currently the codes are available in following languages:
 
 ## Contribution Guide  
 
-### Adding your codes  
+### Adding Problems  
+
+### Adding New Codes  
 
 ### Testing and Debugging  
 
